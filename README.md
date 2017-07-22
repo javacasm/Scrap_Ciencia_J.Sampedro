@@ -44,7 +44,7 @@ Para recuperar:
 
 ### Extracción del texto
 
-Buscamos los bloques que tienen marca de párrafo al principio (^<p>) , título (^<h1>) o epígrafes de nivel 3 (^<h3>)
+Buscamos los bloques que tienen marca de párrafo al principio, título o epígrafes de nivel 3
 
     egrep -e "(^<p>|^<h3|^<h1)" Fichero.html | egrep -v -e "(bolillo|Webs de PRISA|articulo-apoyos)"  > texto.md
 
