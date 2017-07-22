@@ -26,11 +26,12 @@ Los enlaces a EPV.elpais.com parecen ser vídeos
 1. Descargar las publicaciones desde las más recientes
 1. Crear un ebook con los artículos
 
+
 ## Detalles
 
 ### Detección de enlaces a artículos
 
-Se han descargado manualmente las paǵinas [74](./pagina_test1_74.html) ([url](https://elpais.com/autor/javier_sampedro/a/74)) , [73](./pagina_test2_73.html) ([url](https://elpais.com/autor/javier_sampedro/a/73)), [72](./pagina_test3_72.html) ([url](https://elpais.com/autor/javier_sampedro/a/72)) y [25](./pagina_testX_25.html) ([url](https://elpais.com/autor/javier_sampedro/a/25))
+Se han descargado manualmente las paǵinas [74](./pagina_test1_74.html) ([url](https://elpais.com/autor/javier_sampedro/a/74)) , [73](./pagina_test2_73.html) ([url](https://elpais.com/autor/javier_sampedro/a/73)), [72](./pagina_test3_72.html) ([url](https://elpais.com/autor/javier_sampedro/a/72)) y [25](./pagina_testX_25.html) ([url](https://elpais.com/autor/javier_sampedro/a/2))
 
 Una inspección rápida nos muestra que basta hacer
 
