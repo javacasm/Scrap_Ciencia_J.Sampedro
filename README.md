@@ -27,7 +27,7 @@ La [1](https://elpais.com/autor/javier_sampedro/a/1) contiene publicaciones desd
 
 ## Detalles
 
-Se han descargado manualmente las paǵinas [74](./pagina_test1_74.html) [73](./pagina_test2_73.html), [72](./pagina_test3_72.html) y [25](./pagina_testX_25.html)
+Se han descargado manualmente las paǵinas [74](./pagina_test1_74.html), [73](./pagina_test2_73.html), [72](./pagina_test3_72.html) y [25](./pagina_testX_25.html)
 
 Una inspección rápida nos muestra que basta hacer
 
