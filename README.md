@@ -35,7 +35,7 @@ Se han descargado manualmente las paǵinas [74](./pagina_test1_74.html), [73](./
 
 Una inspección rápida nos muestra que basta hacer
 
-    grep "articulo-titulo" *.html
+    grep "articulo-titulo" fichero.html
 
 Para recuperar:
 * Url del artículo: enlace de la etiqueta 'a'
