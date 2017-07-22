@@ -26,7 +26,6 @@ Los enlaces a EPV.elpais.com parecen ser vídeos
 1. Descargar las publicaciones desde las más recientes
 1. Crear un ebook con los artículos
 
-
 ## Detalles
 
 ### Detección de enlaces a artículos
