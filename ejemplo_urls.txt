@@ -1,0 +1,120 @@
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/07/21/ciencia/1500645758_318349.html">En busca del continente perdido </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/07/19/opinion/1500479827_109359.html">Némesis </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/07/14/ciencia/1500058364_718252.html">Listo como un cuervo </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/07/12/opinion/1499861750_019124.html">Robot espacial deja a astronauta en paro </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/cultura/2017/07/08/actualidad/1499527709_579323.html">Antes de exhumar al genio </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/07/07/ciencia/1499441538_211955.html">Un iceberg como 10 veces Madrid </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/07/05/opinion/1499263589_457700.html">Cinco drones </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/06/30/ciencia/1498831681_336962.html">Justo antes de la civilización </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/06/28/opinion/1498663046_181581.html">Spooky </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/cultura/2017/06/23/babelia/1498231074_185845.html">Ciencia </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/06/23/ciencia/1498215686_323573.html">Vuelve el gen </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/06/21/opinion/1498058466_891059.html">Cubo de Necker </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/06/16/ciencia/1497616571_649155.html">Ofensiva contra la ciencia </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/06/16/ciencia/1497626121_505263.html">Los premios son también señales </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/06/14/opinion/1497448251_581589.html">Río arriba </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/06/09/ciencia/1497022812_704305.html">Viejos humanos modernos </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/06/07/opinion/1496851101_595783.html">El bitcoin, el futuro </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/06/01/ciencia/1496327869_257342.html">El ADN, la llave maestra de la evolución humana </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/06/02/ciencia/1496415114_026011.html">La cara luminosa de la ‘Big Pharma’ </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/05/31/opinion/1496242067_022415.html">Vida a los 50 </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/cultura/2017/05/27/actualidad/1495911162_644356.html">El hombre que no encontraba a Rip Kirby </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/05/26/ciencia/1495815679_705731.html">El sueño de Arrhenius sigue vivo </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/05/24/opinion/1495628397_357618.html">Los ciberpichones deben madurar </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/05/19/ciencia/1495206066_887877.html">Un imán capaz de albergar una estrella </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/05/17/opinion/1495034361_971094.html">Contactos en tiempos de desnudez </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/05/17/ciencia/1495038084_240762.html">Los científicos ya saben hacer sangre </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/cultura/2017/05/16/actualidad/1494949057_827779.html">Palabra de guardia civil </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/05/12/ciencia/1494604246_094277.html">Pastillas, por favor </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/05/10/opinion/1494428642_813868.html">Carne de Facebook </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="http://epv.elpais.com/epv/2017/05/10/categoria_ciencia/1494398857_012381.html">El genoma del té revela la razón de su sabor y de su éxito económico </a></h2>
+pagina_test1_74.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/05/08/ciencia/1494239510_721045.html">El genoma del té revela la razón de su sabor y de su éxito económico </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="http://epv.elpais.com/epv/2017/05/08/categoria_ciencia/1494237233_981665.html">Las células madre se organizan imitando al cerebro humano </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/04/26/ciencia/1493216798_585953.html">Las células madre se organizan imitando al cerebro humano </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/05/05/ciencia/1493994365_289123.html">Atención </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/05/03/opinion/1493823596_448495.html">La voz humana ya puede clonarse </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/04/28/ciencia/1493394551_452884.html">Miedo a la razón científica </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/04/26/opinion/1493218911_866798.html">Neuralink o cómo conectar el cerebro a la inteligencia artificial </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/04/21/ciencia/1492783895_019530.html">Los robots vienen a por todos </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/04/19/opinion/1492605581_533438.html">Conducir con la mente de Metrobot </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="http://epv.elpais.com/epv/2017/04/19/categoria_ciencia/1492579987_907392.html">Los hábitos deportivos se contagian en las redes </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/04/18/ciencia/1492510453_242882.html">Los hábitos deportivos se contagian en las redes </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/04/13/ciencia/1492103646_167171.html">Las máquinas reproducen los sesgos sexistas y racistas de los humanos </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/04/13/ciencia/1492102313_538359.html">El pequeño gigante del Sistema Solar </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/04/12/opinion/1492009945_127668.html">Nivel cinco </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/04/07/ciencia/1491565194_694133.html">Drones y basura, una nueva fuerza evolutiva </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/04/05/opinion/1491393370_675528.html">Cámara de eco </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/03/31/ciencia/1490972988_356847.html">La versión macabra del efecto mariposa </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/03/30/ciencia/1490888659_146763.html">La transferencia de genes entre especies creó el mundo moderno </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/03/29/opinion/1490794936_764487.html">El brochetón </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/03/24/ciencia/1490376549_895754.html">Números contra la posverdad </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/03/24/ciencia/1490383798_442205.html">El irresistible encanto de las matemáticas </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="http://epv.elpais.com/epv/2017/03/24/categoria_ciencia/1490363893_863131.html">La principal causa del cáncer: el azar </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="http://epv.elpais.com/epv/2017/03/23/categoria_ciencia/1490285228_068181.html">El arte de Cajal para explicar la ciencia </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/03/23/ciencia/1490286152_670447.html">La principal causa del cáncer: el azar </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/03/22/ciencia/1490185166_393185.html">El arte de Cajal para explicar la ciencia </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/03/22/opinion/1490191143_674613.html">Anna O. Szust o la doctora Fraude </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/03/17/ciencia/1489773521_570096.html">Astérix no necesita la poción mágica </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/03/15/opinion/1489591320_976294.html">¿Por qué no nos dejamos guiar por la ciencia? </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/cultura/2017/03/10/actualidad/1489161469_986954.html">Del jazz al universo y más allá </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/03/10/ciencia/1489149500_624727.html">¿De quién es un trozo de galaxia? </a></h2>
+pagina_test2_73.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/03/09/ciencia/1489076264_052490.html">La vida artificial, cinco pasos más cerca </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/03/08/opinion/1488980740_715007.html">La Nobel que no pudo ser porque había muerto </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/03/03/ciencia/1488558055_323635.html">La cuarta ley de la robótica: pagar impuestos </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/03/01/opinion/1488377666_187960.html">Amebas </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="http://epv.elpais.com/epv/2017/03/01/categoria_ciencia/1488391276_111060.html">Hallada la evidencia de vida más antigua que se conoce </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/03/01/ciencia/1488383634_074742.html">Hallada la evidencia de vida más antigua que se conoce </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/02/24/ciencia/1487959354_379484.html">Otros mundos </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/02/23/ciencia/1487868615_293495.html">Los neandertales siguen vivos en nuestro genoma </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/02/22/opinion/1487774322_665278.html">Uber-ficción </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/02/17/ciencia/1487347090_254840.html">Churchill, Ceres, el vértigo del espacio </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/02/15/opinion/1487169732_966678.html">Quantum </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/02/10/ciencia/1486746295_063692.html">Una pirata con estilo </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/02/09/ciencia/1486658989_941449.html">Los secretos del microbioma humano </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/02/08/opinion/1486562473_641717.html">De farol </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/02/03/ciencia/1486135494_458532.html">Si es pobre, no engorde </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/02/01/opinion/1485970401_504359.html">Menos memes </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/01/27/ciencia/1485539219_013768.html">Frankenstein se despide de ustedes </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/01/26/ciencia/1485444642_380126.html">Un paso hacia el cultivo en cerdos de órganos humanos </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/01/25/opinion/1485356842_395647.html">Historias </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/01/20/ciencia/1484931167_678068.html">Coma poco y bien </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/01/18/opinion/1484756527_415489.html">Trumpharma </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/01/13/ciencia/1484323127_294356.html">Aprendiendo a tejer con moléculas </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/01/13/ciencia/1484319809_038083.html">La ciencia del pasado tiene futuro </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/01/11/opinion/1484150561_536017.html">Qubits </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/01/11/ciencia/1484131511_084779.html">Un testigo de la ‘explosión’ que originó a los animales </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/01/06/ciencia/1483730996_341089.html">Manipulando genes contra la malaria </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/01/05/ciencia/1483628645_279598.html">La zona cerebral que reconoce las caras crece hasta la edad adulta </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2017/01/04/opinion/1483546292_019953.html">Deslocalización </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2016/12/28/opinion/1482925344_747416.html">Vera Rubin </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/elpais/2016/12/23/ciencia/1482511444_871264.html">El año en que solo progresó el conocimiento </a></h2>
+pagina_test3_72.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/cultura/2016/12/22/actualidad/1482428067_560160.html">La última teoría de la belleza del Stradivarius </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/09/18/salud/1000764001_850215.html">Nueva York en la mente </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/09/17/sociedad/1000677602_850215.html">Un ensayo español revela la utilidad de una vacuna antisida en personas ya infectadas </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/09/17/sociedad/1000677603_850215.html">Varios grupos intentarán usar vacunas para interrumpir el uso de 'cócteles' </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/09/15/sociedad/1000504802_850215.html">La Unión Europea no financiará ninguna investigación con células embrionarias </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/09/11/sociedad/1000159204_850215.html">Las revistas médicas denuncian que la industria desvirtúa los ensayos clínicos </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/09/07/sociedad/999813603_850215.html">Diabetes y Parkinson,  dos casos prácticos </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/08/01/sociedad/996616805_850215.html">La promesa abierta por las células madre embrionarias... </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/08/01/sociedad/996616804_850215.html">... y las alternativas para amortiguar la controversia </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/07/30/sociedad/996444006_850215.html">Un informe oficial desaconseja a 2.000 personas donar sangre </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/07/25/sociedad/996012002_850215.html">El asesor médico de Villalobos apoya la investigación con células embrionarias </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/07/25/sociedad/996012003_850215.html">Más   afectados por la diabetes que  donantes de páncreas </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/07/24/sociedad/995925613_850215.html">Experimentos bloqueados por el Gobierno </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/07/24/sociedad/995925607_850215.html">Un centro universitario de Elche importa células madre humanas para su uso en investigaciones </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/07/18/sociedad/995407205_850215.html">Sanidad sólo informa a los médicos sobre los efectos adversos de los fármacos </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/07/07/sociedad/994456801_850215.html">Villalobos deja en evidencia al Gobierno en la crisis del orujo </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/07/04/sociedad/994197601_850215.html">Sanidad inmoviliza todo el aceite de orujo de oliva al detectar un compuesto cancerígeno </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/07/03/sociedad/994111202_850215.html">Sanidad desaconseja donar sangre a los que vivieron en el Reino Unido entre 1980 y 1996 </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/07/02/sociedad/994024802_850215.html">Un receptor hepático que retira el colesterol </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/07/02/sociedad/994024801_850215.html">80.000 españoles tienen un alto riesgo de infarto precoz debido a un gen defectuoso </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/06/30/sociedad/993852004_850215.html">El PSOE presenta un plan sanitario que requiere un billón en 4 años </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/06/29/sociedad/993765601_850215.html">Un nuevo test de orina logra detectar el mal de las 'vacas locas' en las reses vivas </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/06/28/sociedad/993679207_850215.html">El trasplante de dos manos a un amputado corrige la zona del cerebro que las controla </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/06/25/espana/993420008_850215.html">'Vacas locas', un problema sin resolver </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/06/25/sociedad/993420002_850215.html">El principal organismo científico europeo pide la clonación de embriones con fines médicos </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/06/20/sociedad/992988001_850215.html">Los 'biochips' de Barbacid se probarán en miles de enfermos de cáncer en ensayos clínicos </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/06/14/sociedad/992469603_850215.html">Cañete deja a los ganaderos la decisión de sacrificar o no a todas las compañeras de granja de una 'vaca loca' </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/06/08/sociedad/991951209_850215.html">'Se avecina una época de fármacos muy caros, pero muy eficaces' </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/06/05/sociedad/991692001_850215.html">'El conocimiento sobre 'vacas locas' es insuficiente y habrá sorpresas' </a></h2>
+pagina_testX_25.html:<h2 itemprop="headline" class="articulo-titulo"><a href="//elpais.com/diario/2001/05/27/sociedad/990914404_850215.html">22.000 laboratorios bajo el mar </a></h2>
