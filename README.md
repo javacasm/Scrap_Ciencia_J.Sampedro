@@ -38,9 +38,10 @@ Una inspección rápida nos muestra que basta hacer
     grep "articulo-titulo" *.html
 
 Para recuperar:
-* Url del articulo: enlace de la etiqueta <a>
+* Url del artículo: enlace de la etiqueta 'a'
 * Fecha: de la url
-* Título: del texto de la etiqueta <a>
+* Título: del texto de la etiqueta 'a'
+* Generar un fichero con nombre: fecha_titulo_idPais.md
 
 ### Extracción del texto
 
@@ -52,3 +53,8 @@ Buscamos los bloques que tienen marca de párrafo al principio, título o epígr
 
 1. Capturar las imágenes/videos (¡¡para eso es un ebook!!)
 1. Incluir los enlaces de apoyo
+1. Añadir enlace al articulo original en el título
+
+## Creación del ebook
+
+1. Generar un fichero md con todos los artículos ordenados por fecha
